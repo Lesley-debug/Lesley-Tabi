@@ -1,4 +1,3 @@
-# Lesley Tabi
 <h1 align="center">Hi, I'm Lesley 👋</h1>
 <h3 align="center">Backend Developer (PHP/Laravel) • Aspiring DevOps Engineer</h3>
 
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/lesley-tabi-a0b1a1267" target="_blank">
+  <a href="https://www.linkedin.com/in/lesley-tabi-a0b1a1267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:esanglesley@gmail.com">
