@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Lesley 👋</h1>
-<h3 align="center">Backend Developer (PHP/Laravel) • Aspiring DevOps Engineer</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Lesley Tabi, a Backend Developer (PHP/Laravel) • Aspiring DevOps Engineer</h3>
 
 <p align="center">
-  I build backend systems with <b>PHP/Laravel</b>, write automation and tooling in <b>Python</b>,
+  I mostly backend systems with <b>PHP/Laravel</b>, write automation and tooling in <b>Python</b>,
   and I'm leveling up into <b>DevOps</b> — CI/CD, containers, and cloud infrastructure.
 </p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 A Bit About Me
 
 - 🔧 I work as a **Backend Developer**, mainly with **PHP** and the **Laravel** framework
 - 🐍 Currently building projects in **Python**
