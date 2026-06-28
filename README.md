@@ -2,7 +2,7 @@
 <h3 align="center">I'm Lesley Tabi, a Backend Developer (PHP/Laravel) • Aspiring DevOps Engineer</h3>
 
 <p align="center">
-  I mostly backend systems with <b>PHP/Laravel</b>, write automation and tooling in <b>Python</b>,
+  I mostly work on backend systems with <b>PHP/Laravel</b>, write automation and tooling in <b>Python</b>,
   and I'm leveling up into <b>DevOps</b> — CI/CD, containers, and cloud infrastructure.
 </p>
 
