@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nocky-dev" target="_blank">
+  <a href="www.linkedin.com/in/lesley-tabi-a0b1a1267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nocky.dev@gmail.com">
+  <a href="mailto:esanglesley@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lesley-tabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lesley's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-tabi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lesleytabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lesley's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesleytabi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lesley-tabi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lesleytabi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
